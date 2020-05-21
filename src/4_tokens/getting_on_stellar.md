@@ -44,7 +44,7 @@ TFT, TFTA and FreeTFT are registered on this blockchain, under the domain `three
 ## How to buy TFTs
 
 Trading capabilities are not yet available in the 3Bot Connect app. 
-As from April 29, TFTs are tradable on following exchanges. 
+TFT will be available on the following exchanges soon: 
 
 ### Centralized exchanges
 
